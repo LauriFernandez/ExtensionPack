@@ -22,6 +22,7 @@ Ensuite, il suffit de lancer la commande
 ```
 vsce package
 ```
+Dire oui a toutes les questions
 Le fichier .vsix est créé
 
 ## importer un fichier .vsix
