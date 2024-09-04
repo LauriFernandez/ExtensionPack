@@ -16,7 +16,7 @@ Installer vsce en global avec la commande
 ```
 npm install -g @vscode/vsce
 ```
-Mettre à jour la version dans le fichier [package.json](https://github.com/LauriFernandez/ExtensionPack/blob/main/tim-recommendations/package.json)
+Mettre à jour la version dans le fichier [package.json](https://github.com/LauriFernandez/ExtensionPack/blob/main/package.json)
 
 Ensuite, il suffit de lancer la commande
 ```
