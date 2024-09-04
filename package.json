@@ -14,6 +14,7 @@
   "extensionPack": [
     "ritwickdey.LiveServer",
     "MS-CEINTL.vscode-language-pack-fr",
-    "ritwickdey.live-sass"
+    "ritwickdey.live-sass",
+    "Natizyskunk.sftp"
   ]
 }
