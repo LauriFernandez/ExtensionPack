@@ -1,0 +1,17 @@
+{
+  "name": "tim-recommendations",
+  "displayName": "TIM Recommendations",
+  "description": "Extension from TIM",
+  "publisher": "timmatane",
+  "icon": "images/tim.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ritwickdey.LiveServer"
+  ]
+}
