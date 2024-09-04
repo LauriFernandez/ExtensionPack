@@ -11,7 +11,7 @@ Il faut mettre le publisher.name, pour le trouver il suffit d'aller sur le marke
 
 ## Compiler pour le mettre en .vsix
 
-Dans le dossier tim-recommendations, ouvrir un terminal.
+Dans le dossier, ouvrir un terminal.
 Installer vsce en global avec la commande 
 ```
 npm install -g @vscode/vsce
