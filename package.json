@@ -13,6 +13,7 @@
   ],
   "extensionPack": [
     "ritwickdey.LiveServer",
-    "MS-CEINTL.vscode-language-pack-fr"
+    "MS-CEINTL.vscode-language-pack-fr",
+    "ritwickdey.live-sass"
   ]
 }
