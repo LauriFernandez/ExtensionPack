@@ -5,7 +5,7 @@
   "publisher": "timmatane",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LauriFernandez/ExtensionPack.git"
+    "url": "https://github.com/LauriFernandez/ExtensionPack"
   },
   "icon": "images/tim.png",
   "version": "0.0.1",
